@@ -12,6 +12,7 @@ import com.google.firebase.auth.FirebaseUser;
 public class Activity_signed_in extends AppCompatActivity {
 
     TextView userEmail;
+    TextView userEmail1;
     TextView userName;
     FirebaseAuth mAuth;
     FirebaseUser currentUser;
